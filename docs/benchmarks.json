@@ -1,0 +1,1946 @@
+{
+  "generatedAt": "2026-10-22T08:24:16.555Z",
+  "groupSizes": [
+    3,
+    5,
+    10,
+    20,
+    30,
+    50
+  ],
+  "shippedBiddingRounds": 3,
+  "chitFundShipped": {
+    "3": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 3,
+          "avg": 123924,
+          "min": 118224,
+          "max": 135324,
+          "total": 371772
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 3,
+          "avg": 74026,
+          "min": 62626,
+          "max": 96826,
+          "total": 222078
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 47010,
+          "min": 47010,
+          "max": 47010,
+          "total": 47010
+        },
+        "commitBid": {
+          "calls": 3,
+          "avg": 56225,
+          "min": 56225,
+          "max": 56225,
+          "total": 168675
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 3,
+          "avg": 139056,
+          "min": 133391,
+          "max": 150375,
+          "total": 417169
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 134344,
+          "min": 97171,
+          "max": 171689,
+          "total": 403031
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 106023,
+          "min": 106023,
+          "max": 106023,
+          "total": 106023
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "2325000000000000000",
+      "pot": "3000000000000000000"
+    },
+    "5": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 5,
+          "avg": 121644,
+          "min": 118224,
+          "max": 135324,
+          "total": 608220
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 5,
+          "avg": 69466,
+          "min": 62626,
+          "max": 96826,
+          "total": 347330
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 56470,
+          "min": 56470,
+          "max": 56470,
+          "total": 56470
+        },
+        "commitBid": {
+          "calls": 6,
+          "avg": 56223,
+          "min": 56213,
+          "max": 56225,
+          "total": 337338
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 6,
+          "avg": 127670,
+          "min": 116187,
+          "max": 150375,
+          "total": 766022
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 141104,
+          "min": 103931,
+          "max": 178449,
+          "total": 423311
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 160077,
+          "min": 160077,
+          "max": 160077,
+          "total": 160077
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "3874999999999999997",
+      "pot": "5000000000000000000"
+    },
+    "10": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 10,
+          "avg": 119927,
+          "min": 118200,
+          "max": 135324,
+          "total": 1199268
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 10,
+          "avg": 66046,
+          "min": 62626,
+          "max": 96826,
+          "total": 660460
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 80120,
+          "min": 80120,
+          "max": 80120,
+          "total": 80120
+        },
+        "commitBid": {
+          "calls": 15,
+          "avg": 56223,
+          "min": 56201,
+          "max": 56225,
+          "total": 843339
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 15,
+          "avg": 120830,
+          "min": 116187,
+          "max": 150351,
+          "total": 1812449
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 161384,
+          "min": 124211,
+          "max": 198729,
+          "total": 484151
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 295212,
+          "min": 295212,
+          "max": 295212,
+          "total": 295212
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "7749999999999999988",
+      "pot": "10000000000000000000"
+    },
+    "20": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 20,
+          "avg": 119077,
+          "min": 118212,
+          "max": 135324,
+          "total": 2381544
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 20,
+          "avg": 64336,
+          "min": 62626,
+          "max": 96826,
+          "total": 1286720
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 127420,
+          "min": 127420,
+          "max": 127420,
+          "total": 127420
+        },
+        "commitBid": {
+          "calls": 30,
+          "avg": 56224,
+          "min": 56213,
+          "max": 56225,
+          "total": 1686726
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 30,
+          "avg": 118551,
+          "min": 116187,
+          "max": 150363,
+          "total": 3556522
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 195184,
+          "min": 158011,
+          "max": 232529,
+          "total": 585551
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 565482,
+          "min": 565482,
+          "max": 565482,
+          "total": 565482
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "15499999999999999973",
+      "pot": "20000000000000000000"
+    },
+    "30": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 30,
+          "avg": 118791,
+          "min": 118212,
+          "max": 135324,
+          "total": 3563736
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 30,
+          "avg": 63766,
+          "min": 62626,
+          "max": 96826,
+          "total": 1912980
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 174720,
+          "min": 174720,
+          "max": 174720,
+          "total": 174720
+        },
+        "commitBid": {
+          "calls": 45,
+          "avg": 56223,
+          "min": 56213,
+          "max": 56225,
+          "total": 2530041
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 45,
+          "avg": 117804,
+          "min": 116199,
+          "max": 150375,
+          "total": 5301159
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 228984,
+          "min": 191811,
+          "max": 266329,
+          "total": 686951
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 835752,
+          "min": 835752,
+          "max": 835752,
+          "total": 835752
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "23249999999999999958",
+      "pot": "30000000000000000000"
+    },
+    "50": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 50,
+          "avg": 118564,
+          "min": 118212,
+          "max": 135324,
+          "total": 5928216
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 50,
+          "avg": 63310,
+          "min": 62626,
+          "max": 96826,
+          "total": 3165500
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 269320,
+          "min": 269320,
+          "max": 269320,
+          "total": 269320
+        },
+        "commitBid": {
+          "calls": 75,
+          "avg": 56224,
+          "min": 56201,
+          "max": 56225,
+          "total": 4216767
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 75,
+          "avg": 117196,
+          "min": 116187,
+          "max": 150375,
+          "total": 8789665
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 296584,
+          "min": 259411,
+          "max": 333929,
+          "total": 889751
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 1376292,
+          "min": 1376292,
+          "max": 1376292,
+          "total": 1376292
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "38749999999999999928",
+      "pot": "50000000000000000000"
+    }
+  },
+  "chitFundSingleRound": {
+    "3": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 3,
+          "avg": 123916,
+          "min": 118212,
+          "max": 135312,
+          "total": 371748
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 3,
+          "avg": 74026,
+          "min": 62626,
+          "max": 96826,
+          "total": 222078
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 47010,
+          "min": 47010,
+          "max": 47010,
+          "total": 47010
+        },
+        "commitBid": {
+          "calls": 1,
+          "avg": 56225,
+          "min": 56225,
+          "max": 56225,
+          "total": 56225
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 1,
+          "avg": 150363,
+          "min": 150363,
+          "max": 150363,
+          "total": 150363
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 208689,
+          "min": 208689,
+          "max": 208689,
+          "total": 208689
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 106023,
+          "min": 106023,
+          "max": 106023,
+          "total": 106023
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "2550000000000000000",
+      "pot": "3000000000000000000"
+    },
+    "5": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 5,
+          "avg": 121644,
+          "min": 118224,
+          "max": 135324,
+          "total": 608220
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 5,
+          "avg": 69466,
+          "min": 62626,
+          "max": 96826,
+          "total": 347330
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 56470,
+          "min": 56470,
+          "max": 56470,
+          "total": 56470
+        },
+        "commitBid": {
+          "calls": 2,
+          "avg": 56225,
+          "min": 56225,
+          "max": 56225,
+          "total": 112450
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 2,
+          "avg": 133275,
+          "min": 116187,
+          "max": 150363,
+          "total": 266550
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 215449,
+          "min": 215449,
+          "max": 215449,
+          "total": 215449
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 160077,
+          "min": 160077,
+          "max": 160077,
+          "total": 160077
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "4249999999999999999",
+      "pot": "5000000000000000000"
+    },
+    "10": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 10,
+          "avg": 119933,
+          "min": 118212,
+          "max": 135324,
+          "total": 1199328
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 10,
+          "avg": 66046,
+          "min": 62626,
+          "max": 96826,
+          "total": 660460
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 80120,
+          "min": 80120,
+          "max": 80120,
+          "total": 80120
+        },
+        "commitBid": {
+          "calls": 5,
+          "avg": 56223,
+          "min": 56213,
+          "max": 56225,
+          "total": 281113
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 5,
+          "avg": 123022,
+          "min": 116187,
+          "max": 150363,
+          "total": 615111
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 235729,
+          "min": 235729,
+          "max": 235729,
+          "total": 235729
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 295212,
+          "min": 295212,
+          "max": 295212,
+          "total": 295212
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "8499999999999999996",
+      "pot": "10000000000000000000"
+    },
+    "20": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 20,
+          "avg": 119077,
+          "min": 118212,
+          "max": 135324,
+          "total": 2381544
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 20,
+          "avg": 64336,
+          "min": 62626,
+          "max": 96826,
+          "total": 1286720
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 127420,
+          "min": 127420,
+          "max": 127420,
+          "total": 127420
+        },
+        "commitBid": {
+          "calls": 10,
+          "avg": 56225,
+          "min": 56225,
+          "max": 56225,
+          "total": 562250
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 10,
+          "avg": 119605,
+          "min": 116187,
+          "max": 150363,
+          "total": 1196046
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 269529,
+          "min": 269529,
+          "max": 269529,
+          "total": 269529
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 565482,
+          "min": 565482,
+          "max": 565482,
+          "total": 565482
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "16999999999999999991",
+      "pot": "20000000000000000000"
+    },
+    "30": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 30,
+          "avg": 118794,
+          "min": 118212,
+          "max": 135324,
+          "total": 3563808
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 30,
+          "avg": 63766,
+          "min": 62626,
+          "max": 96826,
+          "total": 1912980
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 174720,
+          "min": 174720,
+          "max": 174720,
+          "total": 174720
+        },
+        "commitBid": {
+          "calls": 15,
+          "avg": 56224,
+          "min": 56213,
+          "max": 56225,
+          "total": 843363
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 15,
+          "avg": 118477,
+          "min": 116199,
+          "max": 150375,
+          "total": 1777161
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 303329,
+          "min": 303329,
+          "max": 303329,
+          "total": 303329
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 835752,
+          "min": 835752,
+          "max": 835752,
+          "total": 835752
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "25499999999999999986",
+      "pot": "30000000000000000000"
+    },
+    "50": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 50,
+          "avg": 118563,
+          "min": 118200,
+          "max": 135324,
+          "total": 5928156
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 50,
+          "avg": 63310,
+          "min": 62626,
+          "max": 96826,
+          "total": 3165500
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 269320,
+          "min": 269320,
+          "max": 269320,
+          "total": 269320
+        },
+        "commitBid": {
+          "calls": 25,
+          "avg": 56223,
+          "min": 56213,
+          "max": 56225,
+          "total": 1405565
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 25,
+          "avg": 117566,
+          "min": 116199,
+          "max": 150375,
+          "total": 2939151
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 370929,
+          "min": 370929,
+          "max": 370929,
+          "total": 370929
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 1376292,
+          "min": 1376292,
+          "max": 1376292,
+          "total": 1376292
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "42499999999999999976",
+      "pot": "50000000000000000000"
+    }
+  },
+  "naive": {
+    "3": {
+      "deploy": {
+        "calls": 1,
+        "avg": 1085236,
+        "min": 1085236,
+        "max": 1085236,
+        "total": 1085236
+      },
+      "register": {
+        "calls": 3,
+        "avg": 80402,
+        "min": 74702,
+        "max": 91802,
+        "total": 241206
+      },
+      "startRound": {
+        "calls": 1,
+        "avg": 45668,
+        "min": 45668,
+        "max": 45668,
+        "total": 45668
+      },
+      "deposit": {
+        "calls": 3,
+        "avg": 61283,
+        "min": 55583,
+        "max": 72683,
+        "total": 183849
+      },
+      "placeBid": {
+        "calls": 3,
+        "avg": 87815,
+        "min": 82115,
+        "max": 99215,
+        "total": 263445
+      },
+      "closeAuction": {
+        "calls": 1,
+        "avg": 111260,
+        "min": 111260,
+        "max": 111260,
+        "total": 111260
+      },
+      "releasePayout": {
+        "calls": 1,
+        "avg": 61797,
+        "min": 61797,
+        "max": 61797,
+        "total": 61797
+      }
+    },
+    "5": {
+      "deploy": {
+        "calls": 1,
+        "avg": 1085236,
+        "min": 1085236,
+        "max": 1085236,
+        "total": 1085236
+      },
+      "register": {
+        "calls": 5,
+        "avg": 78120,
+        "min": 74690,
+        "max": 91802,
+        "total": 390598
+      },
+      "startRound": {
+        "calls": 1,
+        "avg": 45668,
+        "min": 45668,
+        "max": 45668,
+        "total": 45668
+      },
+      "deposit": {
+        "calls": 5,
+        "avg": 59003,
+        "min": 55583,
+        "max": 72683,
+        "total": 295015
+      },
+      "placeBid": {
+        "calls": 5,
+        "avg": 85535,
+        "min": 82115,
+        "max": 99215,
+        "total": 427675
+      },
+      "closeAuction": {
+        "calls": 1,
+        "avg": 120956,
+        "min": 120956,
+        "max": 120956,
+        "total": 120956
+      },
+      "releasePayout": {
+        "calls": 1,
+        "avg": 61797,
+        "min": 61797,
+        "max": 61797,
+        "total": 61797
+      }
+    },
+    "10": {
+      "deploy": {
+        "calls": 1,
+        "avg": 1085236,
+        "min": 1085236,
+        "max": 1085236,
+        "total": 1085236
+      },
+      "register": {
+        "calls": 10,
+        "avg": 76412,
+        "min": 74702,
+        "max": 91802,
+        "total": 764120
+      },
+      "startRound": {
+        "calls": 1,
+        "avg": 45668,
+        "min": 45668,
+        "max": 45668,
+        "total": 45668
+      },
+      "deposit": {
+        "calls": 10,
+        "avg": 57293,
+        "min": 55583,
+        "max": 72683,
+        "total": 572930
+      },
+      "placeBid": {
+        "calls": 10,
+        "avg": 83825,
+        "min": 82115,
+        "max": 99215,
+        "total": 838250
+      },
+      "closeAuction": {
+        "calls": 1,
+        "avg": 145196,
+        "min": 145196,
+        "max": 145196,
+        "total": 145196
+      },
+      "releasePayout": {
+        "calls": 1,
+        "avg": 61797,
+        "min": 61797,
+        "max": 61797,
+        "total": 61797
+      }
+    },
+    "20": {
+      "deploy": {
+        "calls": 1,
+        "avg": 1085236,
+        "min": 1085236,
+        "max": 1085236,
+        "total": 1085236
+      },
+      "register": {
+        "calls": 20,
+        "avg": 75556,
+        "min": 74690,
+        "max": 91802,
+        "total": 1511116
+      },
+      "startRound": {
+        "calls": 1,
+        "avg": 45668,
+        "min": 45668,
+        "max": 45668,
+        "total": 45668
+      },
+      "deposit": {
+        "calls": 20,
+        "avg": 56438,
+        "min": 55583,
+        "max": 72683,
+        "total": 1128760
+      },
+      "placeBid": {
+        "calls": 20,
+        "avg": 82969,
+        "min": 82103,
+        "max": 99215,
+        "total": 1659388
+      },
+      "closeAuction": {
+        "calls": 1,
+        "avg": 193676,
+        "min": 193676,
+        "max": 193676,
+        "total": 193676
+      },
+      "releasePayout": {
+        "calls": 1,
+        "avg": 61797,
+        "min": 61797,
+        "max": 61797,
+        "total": 61797
+      }
+    },
+    "30": {
+      "deploy": {
+        "calls": 1,
+        "avg": 1085236,
+        "min": 1085236,
+        "max": 1085236,
+        "total": 1085236
+      },
+      "register": {
+        "calls": 30,
+        "avg": 75270,
+        "min": 74690,
+        "max": 91802,
+        "total": 2258112
+      },
+      "startRound": {
+        "calls": 1,
+        "avg": 45668,
+        "min": 45668,
+        "max": 45668,
+        "total": 45668
+      },
+      "deposit": {
+        "calls": 30,
+        "avg": 56153,
+        "min": 55583,
+        "max": 72683,
+        "total": 1684590
+      },
+      "placeBid": {
+        "calls": 30,
+        "avg": 82697,
+        "min": 82115,
+        "max": 99227,
+        "total": 2480898
+      },
+      "closeAuction": {
+        "calls": 1,
+        "avg": 242156,
+        "min": 242156,
+        "max": 242156,
+        "total": 242156
+      },
+      "releasePayout": {
+        "calls": 1,
+        "avg": 61797,
+        "min": 61797,
+        "max": 61797,
+        "total": 61797
+      }
+    },
+    "50": {
+      "deploy": {
+        "calls": 1,
+        "avg": 1085236,
+        "min": 1085236,
+        "max": 1085236,
+        "total": 1085236
+      },
+      "register": {
+        "calls": 50,
+        "avg": 75044,
+        "min": 74690,
+        "max": 91802,
+        "total": 3752176
+      },
+      "startRound": {
+        "calls": 1,
+        "avg": 45668,
+        "min": 45668,
+        "max": 45668,
+        "total": 45668
+      },
+      "deposit": {
+        "calls": 50,
+        "avg": 55925,
+        "min": 55583,
+        "max": 72683,
+        "total": 2796250
+      },
+      "placeBid": {
+        "calls": 50,
+        "avg": 82469,
+        "min": 82127,
+        "max": 99227,
+        "total": 4123450
+      },
+      "closeAuction": {
+        "calls": 1,
+        "avg": 339116,
+        "min": 339116,
+        "max": 339116,
+        "total": 339116
+      },
+      "releasePayout": {
+        "calls": 1,
+        "avg": 61797,
+        "min": 61797,
+        "max": 61797,
+        "total": 61797
+      }
+    }
+  },
+  "priceDiscovery": {
+    "5:1": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 5,
+          "avg": 121644,
+          "min": 118224,
+          "max": 135324,
+          "total": 608220
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 5,
+          "avg": 69466,
+          "min": 62626,
+          "max": 96826,
+          "total": 347330
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 56470,
+          "min": 56470,
+          "max": 56470,
+          "total": 56470
+        },
+        "commitBid": {
+          "calls": 2,
+          "avg": 56225,
+          "min": 56225,
+          "max": 56225,
+          "total": 112450
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 2,
+          "avg": 133275,
+          "min": 116187,
+          "max": 150363,
+          "total": 266550
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 215449,
+          "min": 215449,
+          "max": 215449,
+          "total": 215449
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 160077,
+          "min": 160077,
+          "max": 160077,
+          "total": 160077
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "4249999999999999999",
+      "pot": "5000000000000000000"
+    },
+    "5:3": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 5,
+          "avg": 121644,
+          "min": 118224,
+          "max": 135324,
+          "total": 608220
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 5,
+          "avg": 69466,
+          "min": 62626,
+          "max": 96826,
+          "total": 347330
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 56470,
+          "min": 56470,
+          "max": 56470,
+          "total": 56470
+        },
+        "commitBid": {
+          "calls": 6,
+          "avg": 56223,
+          "min": 56213,
+          "max": 56225,
+          "total": 337338
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 6,
+          "avg": 127670,
+          "min": 116187,
+          "max": 150375,
+          "total": 766022
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 141104,
+          "min": 103931,
+          "max": 178449,
+          "total": 423311
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 160077,
+          "min": 160077,
+          "max": 160077,
+          "total": 160077
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "3874999999999999997",
+      "pot": "5000000000000000000"
+    },
+    "5:2": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 5,
+          "avg": 121642,
+          "min": 118212,
+          "max": 135324,
+          "total": 608208
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 5,
+          "avg": 69466,
+          "min": 62626,
+          "max": 96826,
+          "total": 347330
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 56470,
+          "min": 56470,
+          "max": 56470,
+          "total": 56470
+        },
+        "commitBid": {
+          "calls": 4,
+          "avg": 56225,
+          "min": 56225,
+          "max": 56225,
+          "total": 224900
+        },
+        "openReveal": {
+          "calls": 2,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 60766
+        },
+        "revealBid": {
+          "calls": 4,
+          "avg": 129070,
+          "min": 116187,
+          "max": 150363,
+          "total": 516280
+        },
+        "closeBiddingRound": {
+          "calls": 2,
+          "avg": 159690,
+          "min": 140931,
+          "max": 178449,
+          "total": 319380
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 160077,
+          "min": 160077,
+          "max": 160077,
+          "total": 160077
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "3999999999999999998",
+      "pot": "5000000000000000000"
+    },
+    "10:1": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 10,
+          "avg": 119933,
+          "min": 118212,
+          "max": 135324,
+          "total": 1199328
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 10,
+          "avg": 66046,
+          "min": 62626,
+          "max": 96826,
+          "total": 660460
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 80120,
+          "min": 80120,
+          "max": 80120,
+          "total": 80120
+        },
+        "commitBid": {
+          "calls": 5,
+          "avg": 56223,
+          "min": 56213,
+          "max": 56225,
+          "total": 281113
+        },
+        "openReveal": {
+          "calls": 1,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 30383
+        },
+        "revealBid": {
+          "calls": 5,
+          "avg": 123022,
+          "min": 116187,
+          "max": 150363,
+          "total": 615111
+        },
+        "closeBiddingRound": {
+          "calls": 1,
+          "avg": 235729,
+          "min": 235729,
+          "max": 235729,
+          "total": 235729
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 295212,
+          "min": 295212,
+          "max": 295212,
+          "total": 295212
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "8499999999999999996",
+      "pot": "10000000000000000000"
+    },
+    "10:3": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 10,
+          "avg": 119927,
+          "min": 118200,
+          "max": 135324,
+          "total": 1199268
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 10,
+          "avg": 66046,
+          "min": 62626,
+          "max": 96826,
+          "total": 660460
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 80120,
+          "min": 80120,
+          "max": 80120,
+          "total": 80120
+        },
+        "commitBid": {
+          "calls": 15,
+          "avg": 56223,
+          "min": 56201,
+          "max": 56225,
+          "total": 843339
+        },
+        "openReveal": {
+          "calls": 3,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 91149
+        },
+        "revealBid": {
+          "calls": 15,
+          "avg": 120830,
+          "min": 116187,
+          "max": 150351,
+          "total": 1812449
+        },
+        "closeBiddingRound": {
+          "calls": 3,
+          "avg": 161384,
+          "min": 124211,
+          "max": 198729,
+          "total": 484151
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 295212,
+          "min": 295212,
+          "max": 295212,
+          "total": 295212
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "7749999999999999988",
+      "pot": "10000000000000000000"
+    },
+    "10:2": {
+      "gas": {
+        "deploy": {
+          "calls": 1,
+          "avg": 3294524,
+          "min": 3294524,
+          "max": 3294524,
+          "total": 3294524
+        },
+        "registerMember": {
+          "calls": 10,
+          "avg": 119932,
+          "min": 118212,
+          "max": 135324,
+          "total": 1199316
+        },
+        "startRound": {
+          "calls": 1,
+          "avg": 69476,
+          "min": 69476,
+          "max": 69476,
+          "total": 69476
+        },
+        "deposit": {
+          "calls": 10,
+          "avg": 66046,
+          "min": 62626,
+          "max": 96826,
+          "total": 660460
+        },
+        "openBidding": {
+          "calls": 1,
+          "avg": 80120,
+          "min": 80120,
+          "max": 80120,
+          "total": 80120
+        },
+        "commitBid": {
+          "calls": 10,
+          "avg": 56224,
+          "min": 56213,
+          "max": 56225,
+          "total": 562238
+        },
+        "openReveal": {
+          "calls": 2,
+          "avg": 30383,
+          "min": 30383,
+          "max": 30383,
+          "total": 60766
+        },
+        "revealBid": {
+          "calls": 10,
+          "avg": 121377,
+          "min": 116175,
+          "max": 150363,
+          "total": 1213774
+        },
+        "closeBiddingRound": {
+          "calls": 2,
+          "avg": 179970,
+          "min": 161211,
+          "max": 198729,
+          "total": 359940
+        },
+        "approvePayout": {
+          "calls": 2,
+          "avg": 62348,
+          "min": 53784,
+          "max": 70912,
+          "total": 124696
+        },
+        "releasePayout": {
+          "calls": 1,
+          "avg": 295212,
+          "min": 295212,
+          "max": 295212,
+          "total": 295212
+        },
+        "claimDividend": {
+          "calls": 1,
+          "avg": 32249,
+          "min": 32249,
+          "max": 32249,
+          "total": 32249
+        }
+      },
+      "winningBid": "7999999999999999992",
+      "pot": "10000000000000000000"
+    }
+  }
+}

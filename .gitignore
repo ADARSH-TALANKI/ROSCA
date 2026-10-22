@@ -1,0 +1,10 @@
+.env
+artifacts/
+cache/
+coverage.json
+coverage/
+dist/
+hardhat.sandbox.config.js
+node_modules/
+typechain-types/
+typechain/

@@ -1,0 +1,26 @@
+{
+  "name": "chitfund-dapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trust-Minimized Chit Fund Platform - contracts, tests and dApp",
+  "scripts": {
+    "node": "hardhat node",
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "dev": "npm run deploy && vite",
+    "demo:cli": "hardhat run scripts/demo.js",
+    "bench": "hardhat run scripts/benchmark.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17",
+    "vite": "^5.4.11",
+    "@vitejs/plugin-react": "^4.3.4"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "ethers": "^6.13.4"
+  }
+}
